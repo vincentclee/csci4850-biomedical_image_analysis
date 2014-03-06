@@ -1,0 +1,19 @@
+Vincent Lee
+
+To compile the program:
+make compile
+To run the program with sample arguments:
+make run
+To clean the program:
+make clean
+
+This program takes in a ANALYZE header file linked to a image file, scales the image, and creates a new header file for the new scaled image. 
+
+To run the program with custom arguments.
+./ass5 [source_hdr] [output_hdr] [scale_factor]
+
+For example:
+./ass5 stripped.hdr stripped-5.hdr .5
+stripped.hdr: source hdr file
+stripped-5.hdr: output hdr file
+.5: scale factor(reduce image by factor of 2x)

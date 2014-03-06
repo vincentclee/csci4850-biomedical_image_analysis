@@ -1,0 +1,117 @@
+# This is the guide to the fine-structure atlas of jacob painted by Noor.
+# Created 1997/02/19, Greg Ward (from Noor's notes)
+# Updated Dec 17, 2001 by Noor
+# $Id: jacob_atlas_brain_fine.guide,v 1.14 1999/04/20 14:34:34 louis Exp louis $
+#
+# XU, Dongrong sorted the list and revised 
+#       the 18 th
+# the 21st & 22nd
+#       the 125th
+#
+#  -XDR- on Jan 8 , 2003
+#
+
+  1, "medial front-orbital gyrus right",
+  2, "middle frontal gyrus right",
+  3, "lateral ventricle left",
+  4, "insula right",
+  5, "precentral gyrus right",
+  6, "lateral front-orbital gyrus right",
+  7, "cingulate region right",
+  8, "lateral ventricle right",
+  9, "medial frontal gyrus left",
+  10, "superior frontal gyrus right",
+  11, "globus palladus right",
+  12, "globus palladus left",
+  13, "white matter", /* ----won't calculate ---- */
+  14, "putamen left",
+  15, "inferior frontal gyrus left",
+  16, "putamen right",
+  17, "frontal lobe WM right",
+  18, "parahippocampal gyrus left", /*  18, "parahippocampal cortex left",*/
+  19, "angular gyrus right",
+  20, "brain stem",   /* ----won't calculate ---- */
+  21, "temporal pole right", /* ----won't calculate ---- */
+  22, "scalp",  /* was marked to be 21,we suppose this is an error */
+  23, "subthalamic nucleus right",
+  24, "dura and sinuses", /* ----won't calculate ---- */
+  25, "nucleus accumbens right",
+  26, "uncus right",
+  27, "cingulate region left",
+  28, "skull", /* ----won't calculate ---- */
+  29, "fornix left",
+  30, "frontal lobe WM left",
+  32, "precuneus right",
+  33, "subthalamic nucleus left",
+  34, "posterior limb of internal capsule inc. cerebral peduncle left",
+  35, "posterior limb of internal capsule inc. cerebral peduncle right",
+  36, "hippocampal formation right",
+  37, "inferior occipital gyrus left",
+  38, "superior occipital gyrus right",
+  39, "caudate nucleus left",
+  41, "supramarginal gyrus left",
+  43, "anterior limb of internal capsule left",
+  45, "occipital lobe WM right",
+  50, "middle frontal gyrus left",
+  52, "superior parietal lobule left",
+  53, "caudate nucleus right",
+  54, "cuneus left",
+  56, "precuneus left",
+  57, "parietal lobe WM left",
+  59, "temporal lobe WM right",
+  60, "supramarginal gyrus right",
+  61, "superior temporal gyrus left",
+  62, "uncus left",
+  63, "middle occipital gyrus right",
+  64, "middle temporal gyrus left",
+  67, "cerebellum left",  /* ----won't calculate ---- */
+  69, "lingual gyrus left",
+  70, "superior frontal gyrus left",
+  72, "nucleus accumbens left",
+  73, "occipital lobe WM left",
+  74, "postcentral gyrus left",
+  75, "inferior frontal gyrus right",
+  76, "cerebellum right", /* ----won't calculate ---- */
+  80, "precentral gyrus left",
+  83, "temporal lobe WM left",
+  85, "medial front-orbital gyrus left",
+  86, "perirhinal cortex right",
+  88, "superior parietal lobule right",
+  90, "lateral front-orbital gyrus left",
+  92, "perirhinal cortex left",
+  94, "inferior temporal gyrus left",
+  95, "temporal pole left",
+  96, "entorhinal cortex left",
+  97, "inferior occipital gyrus right",
+  98, "superior occipital gyrus left",
+  99, "lateral occipitotemporal gyrus right",
+  100, "entorhinal cortex right",
+  101, "hippocampal formation left",
+  102, "thalamus left",
+  105, "parietal lobe WM right",
+  108, "insula left",
+  110, "postcentral gyrus right",
+  112, "lingual gyrus right",
+  114, "medial frontal gyrus right",
+  118, "amygdala left",
+  119, "medial occipitotemporal gyrus left",
+  125, "parahippocampal gyrus right",  /*125, "parahippocampal cortex right",*/
+  128, "anterior limb of internal capsule right",
+  130, "middle temporal gyrus right",
+  132, "occipital pole right",
+  133, "corpus callosum",
+  139, "amygdala right",
+  140, "inferior temporal gyrus right",
+  145, "superior temporal gyrus right",
+  154, "middle occipital gyrus left",
+  159, "angular gyrus left",
+  165, "medial occipitotemporal gyrus right",
+  175, "cuneus right",
+  196, "lateral occipitotemporal gyrus left",
+  203, "thalamus right",
+  232, "third ventricle",  /* ----won't calculate ---- */
+  233, "fourth ventricle", /* ----won't calculate ---- */
+  243, "background",
+  251, "occipital pole left",
+  254, "fornix right",
+  255, "subarachnoid cerebro-spinal fluid", /* ----won't calculate ---- */
